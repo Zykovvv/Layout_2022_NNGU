@@ -1,0 +1,27 @@
+/* Стили хэдера */
+header {
+    background-color: aquamarine;
+}
+
+/* Стили навигации */
+.main-menu {
+    background-color: plum;
+}
+
+/* Стили контентной части */
+.main-section {
+    background-color: blanchedalmond;
+}
+
+.main-section-item{
+    background-color: coral;
+}
+
+/* Стили сайдбара */
+.sidebar-right {
+    background-color:  darkturquoise;
+}
+/* Стили футера */
+footer {
+    background-color: greenyellow;
+}
