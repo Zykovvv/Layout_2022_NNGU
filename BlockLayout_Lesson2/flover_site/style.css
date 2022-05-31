@@ -43,8 +43,7 @@ h5 {
 }
 
 .flowers {
-    display: flex;
-    justify-content: space-around;
+    display: inline-block;
     width: 1137.5px;
     height: 351px;
     margin: auto;
